@@ -1,0 +1,45 @@
+.producto{
+    display: inline-block;
+    width: 25%;
+    padding: 10px;
+    background: #E7E7E7;
+    color:#333;
+    margin-bottom: 5px;
+}
+.img_vehiculo{
+    text-align: center;
+    width: 318px;
+    height: 220px;    
+    
+}
+.name_producto{
+    padding: 10px;
+    color: #ffff;
+    background: #A91617;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.precio{
+    color:#000000;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#boton_carrito{
+    float: right;
+    margin-top:5px;
+    
+    
+}
+#btn_salir{
+    margin-top: 10%;
+    position: relative;
+
+}
+.imagen_carrito{
+    width: 50px;
+    height: 50px;
+    border-radius: 1000px;
+
+}

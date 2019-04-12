@@ -1,10 +1,9 @@
 <?php
+//codigos de la NASA
 @session_start();
 @extract($_REQUEST);
 
-$host_mysqli = "localhost";
-$user_mysqli = "root";
-$pass_mysqli = "";
-$db_mysqli = "buyline";
+
+$divisa="RD$";
 
 ?>
